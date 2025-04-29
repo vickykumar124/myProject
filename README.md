@@ -1,0 +1,2 @@
+# myProject
+amazon clone
